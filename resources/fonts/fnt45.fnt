@@ -1,0 +1,15 @@
+info face="Park Lane NF" size=125 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=125 base=102 scaleW=256 scaleH=256 pages=2 packed=0 alphaChnl=0 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="fnt45_0.png"
+page id=1 file="fnt45_1.png"
+chars count=10
+char id=48   x=56    y=0     width=89    height=87    xoffset=2     yoffset=17    xadvance=93    page=0  chnl=15
+char id=49   x=216   y=0     width=29    height=87    xoffset=2     yoffset=15    xadvance=33    page=0  chnl=15
+char id=50   x=0     y=89    width=68    height=85    xoffset=2     yoffset=17    xadvance=72    page=0  chnl=15
+char id=51   x=69    y=88    width=68    height=85    xoffset=2     yoffset=19    xadvance=72    page=0  chnl=15
+char id=52   x=0     y=0     width=55    height=88    xoffset=2     yoffset=14    xadvance=59    page=0  chnl=15
+char id=53   x=138   y=88    width=68    height=85    xoffset=2     yoffset=19    xadvance=72    page=0  chnl=15
+char id=54   x=69    y=0     width=68    height=85    xoffset=2     yoffset=18    xadvance=72    page=1  chnl=15
+char id=55   x=138   y=0     width=50    height=83    xoffset=2     yoffset=19    xadvance=54    page=1  chnl=15
+char id=56   x=146   y=0     width=69    height=87    xoffset=2     yoffset=17    xadvance=72    page=0  chnl=15
+char id=57   x=0     y=0     width=68    height=85    xoffset=2     yoffset=17    xadvance=72    page=1  chnl=15

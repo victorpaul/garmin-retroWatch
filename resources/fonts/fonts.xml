@@ -1,0 +1,7 @@
+<resources>
+    
+    <font id="fntHuge" filename="fnt1.fnt" antialias="true"/>
+    <font id="fntHuge45" filename="fnt45.fnt" antialias="true"/>
+    <font id="fntMedium" filename="fntMedium.fnt" antialias="true"/>
+    
+</resources>

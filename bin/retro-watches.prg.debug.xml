@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="4" lineNum="15" pc="268435459" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="5" lineNum="20" pc="268435464" symbol="fontHuge245"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="5" lineNum="21" pc="268435468" symbol="fontHuge245"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="6" lineNum="24" pc="268435505" symbol="fontHuge45"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="6" lineNum="25" pc="268435509" symbol="fontHuge45"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="7" lineNum="28" pc="268435546" symbol="fontMedium"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="7" lineNum="29" pc="268435550" symbol="fontMedium"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="8" lineNum="32" pc="268435587" symbol="getWeekdayName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="8" lineNum="33" pc="268435591" symbol="getWeekdayName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="9" lineNum="35" pc="268435606" symbol="getWeekdayName_"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="9" lineNum="37" pc="268435610" symbol="getWeekdayName_"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="9" lineNum="38" pc="268435758" symbol="getWeekdayName_"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="9" lineNum="39" pc="268435764" symbol="getWeekdayName_"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="9" lineNum="40" pc="268435770" symbol="getWeekdayName_"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="9" lineNum="41" pc="268435776" symbol="getWeekdayName_"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="9" lineNum="42" pc="268435782" symbol="getWeekdayName_"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="9" lineNum="43" pc="268435788" symbol="getWeekdayName_"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="9" lineNum="44" pc="268435794" symbol="getWeekdayName_"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="48" pc="268435801" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="49" pc="268435805" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="50" pc="268436048" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="51" pc="268436054" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="52" pc="268436060" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="53" pc="268436066" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="54" pc="268436072" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="55" pc="268436078" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="56" pc="268436084" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="57" pc="268436090" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="58" pc="268436096" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="59" pc="268436102" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="60" pc="268436108" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="10" lineNum="61" pc="268436114" symbol="getMonthName"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="11" lineNum="65" pc="268436121" symbol="getHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="11" lineNum="66" pc="268436125" symbol="getHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="11" lineNum="67" pc="268436148" symbol="getHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="11" lineNum="68" pc="268436171" symbol="getHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="11" lineNum="69" pc="268436191" symbol="getHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="11" lineNum="71" pc="268436204" symbol="getHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="12" lineNum="74" pc="268436231" symbol="getBattery"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="12" lineNum="75" pc="268436235" symbol="getBattery"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="12" lineNum="76" pc="268436246" symbol="getBattery"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="12" lineNum="78" pc="268436255" symbol="getBattery"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="13" lineNum="81" pc="268436339" symbol="drawHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="13" lineNum="82" pc="268436343" symbol="drawHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="13" lineNum="83" pc="268436356" symbol="drawHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="13" lineNum="84" pc="268436394" symbol="drawHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="13" lineNum="85" pc="268436438" symbol="drawHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="13" lineNum="86" pc="268436449" symbol="drawHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="13" lineNum="86" pc="268436467" symbol="drawHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="13" lineNum="87" pc="268436512" symbol="drawHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="13" lineNum="87" pc="268436530" symbol="drawHours"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="14" lineNum="91" pc="268436585" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="14" lineNum="92" pc="268436589" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="14" lineNum="93" pc="268436635" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="14" lineNum="94" pc="268436673" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="14" lineNum="95" pc="268436717" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="14" lineNum="96" pc="268436728" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="14" lineNum="96" pc="268436746" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="14" lineNum="97" pc="268436791" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="14" lineNum="97" pc="268436809" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="15" lineNum="101" pc="268436864" symbol="drawRight"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="15" lineNum="102" pc="268436868" symbol="drawRight"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="15" lineNum="103" pc="268436912" symbol="drawRight"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="15" lineNum="105" pc="268437000" symbol="drawRight"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="15" lineNum="106" pc="268437011" symbol="drawRight"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="15" lineNum="106" pc="268437029" symbol="drawRight"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="16" lineNum="110" pc="268437128" symbol="drawBottom"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="16" lineNum="111" pc="268437132" symbol="drawBottom"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="16" lineNum="112" pc="268437176" symbol="drawBottom"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="16" lineNum="113" pc="268437249" symbol="drawBottom"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="17" lineNum="116" pc="268437272" symbol="drawLeft"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="17" lineNum="117" pc="268437276" symbol="drawLeft"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="17" lineNum="118" pc="268437320" symbol="drawLeft"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="17" lineNum="119" pc="268437401" symbol="drawLeft"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="17" lineNum="121" pc="268437423" symbol="drawLeft"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="17" lineNum="122" pc="268437434" symbol="drawLeft"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="17" lineNum="122" pc="268437452" symbol="drawLeft"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="18" lineNum="126" pc="268437562" symbol="drawTop"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="18" lineNum="127" pc="268437566" symbol="drawTop"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="18" lineNum="129" pc="268437610" symbol="drawTop"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="18" lineNum="131" pc="268437709" symbol="drawTop"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="18" lineNum="132" pc="268437720" symbol="drawTop"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="18" lineNum="132" pc="268437738" symbol="drawTop"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="19" lineNum="136" pc="268437848" symbol="setColors"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="19" lineNum="137" pc="268437852" symbol="setColors"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="19" lineNum="138" pc="268437883" symbol="setColors"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="19" lineNum="139" pc="268437914" symbol="setColors"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="19" lineNum="140" pc="268437940" symbol="setColors"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="19" lineNum="141" pc="268437952" symbol="setColors"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="20" lineNum="144" pc="268437979" symbol="ifScreen"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\helper.mc" id="20" lineNum="145" pc="268437983" symbol="ifScreen"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="22" lineNum="7" pc="268438069" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="22" lineNum="8" pc="268438073" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="23" lineNum="11" pc="268438084" symbol="drawText"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="23" lineNum="12" pc="268438088" symbol="drawText"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="23" lineNum="14" pc="268438159" symbol="drawText"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="24" lineNum="17" pc="268438204" symbol="setColor"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="24" lineNum="18" pc="268438208" symbol="setColor"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="24" lineNum="20" pc="268438256" symbol="setColor"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="25" lineNum="23" pc="268438291" symbol="clear"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="25" lineNum="24" pc="268438295" symbol="clear"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\testsMockDC.mc" id="25" lineNum="26" pc="268438302" symbol="clear"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesApp.mc" id="27" lineNum="6" pc="268438337" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesApp.mc" id="27" lineNum="7" pc="268438341" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesApp.mc" id="28" lineNum="11" pc="268438360" symbol="onStart"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesApp.mc" id="29" lineNum="15" pc="268438365" symbol="onStop"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesApp.mc" id="30" lineNum="19" pc="268438370" symbol="getInitialView"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesApp.mc" id="30" lineNum="20" pc="268438374" symbol="getInitialView"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesApp.mc" id="31" lineNum="24" pc="268438412" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesApp.mc" id="31" lineNum="25" pc="268438416" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesBackground.mc" id="33" lineNum="7" pc="268438433" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesBackground.mc" id="33" lineNum="8" pc="268438437" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesBackground.mc" id="33" lineNum="12" pc="268438458" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesBackground.mc" id="34" lineNum="15" pc="268438479" symbol="draw"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesBackground.mc" id="34" lineNum="17" pc="268438483" symbol="draw"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesBackground.mc" id="34" lineNum="18" pc="268438536" symbol="draw"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="36" lineNum="11" pc="268438549" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="36" lineNum="12" pc="268438553" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="36" lineNum="14" pc="268438571" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="36" lineNum="16" pc="268438601" symbol="initialize"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="37" lineNum="19" pc="268438618" symbol="draw_vivoactiveHR"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="37" lineNum="20" pc="268438622" symbol="draw_vivoactiveHR"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="37" lineNum="21" pc="268438629" symbol="draw_vivoactiveHR"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="37" lineNum="22" pc="268438636" symbol="draw_vivoactiveHR"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="37" lineNum="23" pc="268438687" symbol="draw_vivoactiveHR"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="37" lineNum="26" pc="268438738" symbol="draw_vivoactiveHR"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="37" lineNum="27" pc="268438797" symbol="draw_vivoactiveHR"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="38" lineNum="30" pc="268438857" symbol="draw_fr920xt"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="38" lineNum="32" pc="268438861" symbol="draw_fr920xt"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="38" lineNum="33" pc="268438868" symbol="draw_fr920xt"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="38" lineNum="34" pc="268438922" symbol="draw_fr920xt"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="38" lineNum="37" pc="268438976" symbol="draw_fr920xt"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="38" lineNum="38" pc="268439035" symbol="draw_fr920xt"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="39" lineNum="41" pc="268439095" symbol="draw_fr230_fr235"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="39" lineNum="42" pc="268439099" symbol="draw_fr230_fr235"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="39" lineNum="43" pc="268439106" symbol="draw_fr230_fr235"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="39" lineNum="44" pc="268439113" symbol="draw_fr230_fr235"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="39" lineNum="45" pc="268439164" symbol="draw_fr230_fr235"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="39" lineNum="48" pc="268439215" symbol="draw_fr230_fr235"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="39" lineNum="49" pc="268439274" symbol="draw_fr230_fr235"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="40" lineNum="52" pc="268439334" symbol="draw_fenix3"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="40" lineNum="53" pc="268439338" symbol="draw_fenix3"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="40" lineNum="54" pc="268439345" symbol="draw_fenix3"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="40" lineNum="55" pc="268439352" symbol="draw_fenix3"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="40" lineNum="56" pc="268439403" symbol="draw_fenix3"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="40" lineNum="58" pc="268439454" symbol="draw_fenix3"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="40" lineNum="59" pc="268439513" symbol="draw_fenix3"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="40" lineNum="60" pc="268439572" symbol="draw_fenix3"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="41" lineNum="63" pc="268439632" symbol="draw_fr45"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="41" lineNum="64" pc="268439636" symbol="draw_fr45"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="41" lineNum="65" pc="268439643" symbol="draw_fr45"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="41" lineNum="66" pc="268439650" symbol="draw_fr45"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="41" lineNum="67" pc="268439701" symbol="draw_fr45"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="41" lineNum="70" pc="268439752" symbol="draw_fr45"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="41" lineNum="71" pc="268439811" symbol="draw_fr45"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="42" lineNum="74" pc="268439871" symbol="draw_fr245_fenix5x"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="42" lineNum="75" pc="268439875" symbol="draw_fr245_fenix5x"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="42" lineNum="76" pc="268439882" symbol="draw_fr245_fenix5x"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="42" lineNum="77" pc="268439889" symbol="draw_fr245_fenix5x"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="42" lineNum="78" pc="268439940" symbol="draw_fr245_fenix5x"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="42" lineNum="80" pc="268439991" symbol="draw_fr245_fenix5x"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="42" lineNum="81" pc="268440050" symbol="draw_fr245_fenix5x"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="42" lineNum="82" pc="268440109" symbol="draw_fr245_fenix5x"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="43" lineNum="85" pc="268440169" symbol="draw_fenix6"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="43" lineNum="86" pc="268440173" symbol="draw_fenix6"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="43" lineNum="87" pc="268440230" symbol="draw_fenix6"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="43" lineNum="89" pc="268440287" symbol="draw_fenix6"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="43" lineNum="90" pc="268440346" symbol="draw_fenix6"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="43" lineNum="91" pc="268440405" symbol="draw_fenix6"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="44" lineNum="94" pc="268440465" symbol="draw_fenix6xpro"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="44" lineNum="95" pc="268440469" symbol="draw_fenix6xpro"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="44" lineNum="96" pc="268440526" symbol="draw_fenix6xpro"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="44" lineNum="98" pc="268440583" symbol="draw_fenix6xpro"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="44" lineNum="99" pc="268440642" symbol="draw_fenix6xpro"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="44" lineNum="100" pc="268440701" symbol="draw_fenix6xpro"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="45" lineNum="103" pc="268440761" symbol="draw_venu"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="45" lineNum="104" pc="268440765" symbol="draw_venu"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="45" lineNum="105" pc="268440822" symbol="draw_venu"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="45" lineNum="107" pc="268440879" symbol="draw_venu"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="45" lineNum="108" pc="268440938" symbol="draw_venu"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="45" lineNum="109" pc="268440997" symbol="draw_venu"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="112" pc="268441057" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="113" pc="268441061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="118" pc="268441081" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="119" pc="268441116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="120" pc="268441130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="122" pc="268441134" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="123" pc="268441169" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="124" pc="268441183" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="126" pc="268441187" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="127" pc="268441222" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="128" pc="268441236" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="130" pc="268441240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="131" pc="268441275" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="132" pc="268441289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="134" pc="268441293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="135" pc="268441328" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="136" pc="268441342" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="138" pc="268441346" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="139" pc="268441381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="140" pc="268441395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="142" pc="268441399" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="143" pc="268441434" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="144" pc="268441448" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="146" pc="268441452" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="147" pc="268441487" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="148" pc="268441501" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="150" pc="268441505" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="151" pc="268441540" symbol="onUpdate"/>
+<entry filename="C:\\Users\\victor\\projects\\garmin-retro-watch\\source\\retrowatchesView.mc" id="46" lineNum="152" pc="268441554" symbol="onUpdate"/>
+<entry filename="Rez" id="52" lineNum="18" pc="268441559" symbol="WatchFace"/>
+<entry filename="Rez" id="52" lineNum="20" pc="268441571" symbol="WatchFace"/>
+<entry filename="Rez" id="52" lineNum="21" pc="268441595" symbol="WatchFace"/>
+<entry filename="Rez" id="52" lineNum="23" pc="268441758" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="8389793" method="true" symbol="debug"/>
+<entry id="40" method="true" symbol="drawHours"/>
+<entry id="49" method="true" symbol="draw_vivoactiveHR"/>
+<entry id="39" method="true" symbol="getBattery"/>
+<entry field="true" id="21" symbol="fntMedium"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8389177" method="true" symbol="clear"/>
+<entry field="true" id="23" symbol="ColorBlue"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="41" method="true" symbol="drawMinutes"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="34" method="true" symbol="fontMedium"/>
+<entry id="46" method="true" symbol="setColors"/>
+<entry field="true" id="30" symbol="ColorWhite"/>
+<entry id="12" object="true" symbol="retrowatchesApp"/>
+<entry field="true" id="14" symbol="logger"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="29" symbol="ColorBlack"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="53" method="true" symbol="draw_fr45"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="50" method="true" symbol="draw_fr920xt"/>
+<entry field="true" id="48" symbol="uiH"/>
+<entry field="true" id="24" symbol="ColorRed"/>
+<entry id="8388649" module="true" object="true" symbol="Test"/>
+<entry field="true" id="19" symbol="fntHuge"/>
+<entry field="true" id="25" symbol="ForegroundColorTitle"/>
+<entry id="8389131" method="true" symbol="setColor"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="31" symbol="AppName"/>
+<entry id="13" object="true" symbol="retrowatchesView"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="20" symbol="fntHuge45"/>
+<entry id="44" method="true" symbol="drawLeft"/>
+<entry id="56" method="true" symbol="draw_fenix6xpro"/>
+<entry id="45" method="true" symbol="drawTop"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="42" method="true" symbol="drawRight"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
+<entry field="true" id="15" symbol="calls"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="57" method="true" symbol="draw_venu"/>
+<entry id="33" method="true" symbol="fontHuge45"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="54" method="true" symbol="draw_fr245_fenix5x"/>
+<entry field="true" id="27" symbol="ColorDarkGray"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="38" method="true" symbol="getHours"/>
+<entry id="8389190" method="true" symbol="drawText"/>
+<entry id="8389348" symbol="font"/>
+<entry field="true" id="22" symbol="ColorLightGray"/>
+<entry id="32" method="true" symbol="fontHuge245"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="26" symbol="BackgroundColorTitle"/>
+<entry id="11" object="true" symbol="mockDC"/>
+<entry id="43" method="true" symbol="drawBottom"/>
+<entry id="16" module="true" symbol="Layouts"/>
+<entry id="36" method="true" symbol="getWeekdayName_"/>
+<entry id="10" object="true" symbol="helper"/>
+<entry field="true" id="28" symbol="MilitaryFormatTitle"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="9" object="true" symbol="WatchfacesTests"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="51" method="true" symbol="draw_fr230_fr235"/>
+<entry id="17" module="true" symbol="Menus"/>
+<entry id="35" method="true" symbol="getWeekdayName"/>
+<entry id="55" method="true" symbol="draw_fenix6"/>
+<entry id="52" method="true" symbol="draw_fenix3"/>
+<entry id="47" method="true" symbol="ifScreen"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="37" method="true" symbol="getMonthName"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435606" name="day" stackId="1" startPc="268435587"/>
+<entry endPc="268435801" name="number" stackId="1" startPc="268435606"/>
+<entry endPc="268436121" name="number" stackId="1" startPc="268435801"/>
+<entry endPc="268436230" name="hours" stackId="1" startPc="268436125"/>
+<entry endPc="268436230" name="clockMode" stackId="2" startPc="268436125"/>
+<entry endPc="268436512" name="t" stackId="8" startPc="268436467"/>
+<entry endPc="268436581" name="t" stackId="9" startPc="268436530"/>
+<entry endPc="268436584" name="hours" stackId="7" startPc="268436343"/>
+<entry endPc="268436585" name="dc" stackId="1" startPc="268436339"/>
+<entry endPc="268436585" name="adjY" stackId="5" startPc="268436339"/>
+<entry endPc="268436585" name="adjX" stackId="4" startPc="268436339"/>
+<entry endPc="268436585" name="hourY" stackId="3" startPc="268436339"/>
+<entry endPc="268436585" name="hourX" stackId="2" startPc="268436339"/>
+<entry endPc="268436585" name="hugefont" stackId="6" startPc="268436339"/>
+<entry endPc="268436791" name="t" stackId="8" startPc="268436746"/>
+<entry endPc="268436860" name="t" stackId="9" startPc="268436809"/>
+<entry endPc="268436863" name="minutes" stackId="7" startPc="268436589"/>
+<entry endPc="268436864" name="dc" stackId="1" startPc="268436585"/>
+<entry endPc="268436864" name="adjY" stackId="5" startPc="268436585"/>
+<entry endPc="268436864" name="adjX" stackId="4" startPc="268436585"/>
+<entry endPc="268436864" name="hugefont" stackId="6" startPc="268436585"/>
+<entry endPc="268436864" name="minuteY" stackId="3" startPc="268436585"/>
+<entry endPc="268436864" name="minuteX" stackId="2" startPc="268436585"/>
+<entry endPc="268437124" name="t" stackId="7" startPc="268437029"/>
+<entry endPc="268437127" name="date" stackId="6" startPc="268436868"/>
+<entry endPc="268437128" name="x" stackId="2" startPc="268436864"/>
+<entry endPc="268437128" name="dc" stackId="1" startPc="268436864"/>
+<entry endPc="268437128" name="font" stackId="4" startPc="268436864"/>
+<entry endPc="268437128" name="align" stackId="5" startPc="268436864"/>
+<entry endPc="268437128" name="y" stackId="3" startPc="268436864"/>
+<entry endPc="268437271" name="day" stackId="7" startPc="268437132"/>
+<entry endPc="268437271" name="date" stackId="6" startPc="268437132"/>
+<entry endPc="268437272" name="x" stackId="2" startPc="268437128"/>
+<entry endPc="268437272" name="dc" stackId="1" startPc="268437128"/>
+<entry endPc="268437272" name="font" stackId="4" startPc="268437128"/>
+<entry endPc="268437272" name="align" stackId="5" startPc="268437128"/>
+<entry endPc="268437272" name="y" stackId="3" startPc="268437128"/>
+<entry endPc="268437558" name="t" stackId="8" startPc="268437452"/>
+<entry endPc="268437561" name="day" stackId="7" startPc="268437276"/>
+<entry endPc="268437561" name="date" stackId="6" startPc="268437276"/>
+<entry endPc="268437562" name="x" stackId="2" startPc="268437272"/>
+<entry endPc="268437562" name="dc" stackId="1" startPc="268437272"/>
+<entry endPc="268437562" name="font" stackId="4" startPc="268437272"/>
+<entry endPc="268437562" name="align" stackId="5" startPc="268437272"/>
+<entry endPc="268437562" name="y" stackId="3" startPc="268437272"/>
+<entry endPc="268437844" name="t" stackId="7" startPc="268437738"/>
+<entry endPc="268437847" name="date" stackId="6" startPc="268437566"/>
+<entry endPc="268437848" name="x" stackId="2" startPc="268437562"/>
+<entry endPc="268437848" name="dc" stackId="1" startPc="268437562"/>
+<entry endPc="268437848" name="font" stackId="4" startPc="268437562"/>
+<entry endPc="268437848" name="align" stackId="5" startPc="268437562"/>
+<entry endPc="268437848" name="y" stackId="3" startPc="268437562"/>
+<entry endPc="268437978" name="bgColor" stackId="2" startPc="268437852"/>
+<entry endPc="268437978" name="fgColor" stackId="3" startPc="268437852"/>
+<entry endPc="268437979" name="dc" stackId="1" startPc="268437848"/>
+<entry endPc="268438069" name="screenShape" stackId="3" startPc="268437979"/>
+<entry endPc="268438069" name="screenWidth" stackId="1" startPc="268437979"/>
+<entry endPc="268438069" name="screenHeight" stackId="2" startPc="268437979"/>
+<entry endPc="268438084" name="logger_" stackId="1" startPc="268438069"/>
+<entry endPc="268438203" name="str" stackId="6" startPc="268438088"/>
+<entry endPc="268438204" name="justify" stackId="5" startPc="268438084"/>
+<entry endPc="268438204" name="font" stackId="3" startPc="268438084"/>
+<entry endPc="268438204" name="hourY" stackId="2" startPc="268438084"/>
+<entry endPc="268438204" name="hourX" stackId="1" startPc="268438084"/>
+<entry endPc="268438204" name="text" stackId="4" startPc="268438084"/>
+<entry endPc="268438290" name="str" stackId="3" startPc="268438208"/>
+<entry endPc="268438291" name="color2" stackId="2" startPc="268438204"/>
+<entry endPc="268438291" name="color1" stackId="1" startPc="268438204"/>
+<entry endPc="268438336" name="str" stackId="1" startPc="268438295"/>
+<entry endPc="268438365" name="state" stackId="1" startPc="268438360"/>
+<entry endPc="268438370" name="state" stackId="1" startPc="268438365"/>
+<entry endPc="268438478" name="dictionary" stackId="1" startPc="268438437"/>
+<entry endPc="268438549" name="dc" stackId="1" startPc="268438479"/>
+<entry endPc="268438856" name="x" stackId="2" startPc="268438622"/>
+<entry endPc="268438856" name="xadj" stackId="3" startPc="268438622"/>
+<entry endPc="268438857" name="dc" stackId="1" startPc="268438618"/>
+<entry endPc="268439094" name="xadj" stackId="2" startPc="268438861"/>
+<entry endPc="268439095" name="dc" stackId="1" startPc="268438857"/>
+<entry endPc="268439333" name="x" stackId="2" startPc="268439099"/>
+<entry endPc="268439333" name="xadj" stackId="3" startPc="268439099"/>
+<entry endPc="268439334" name="dc" stackId="1" startPc="268439095"/>
+<entry endPc="268439631" name="x" stackId="2" startPc="268439338"/>
+<entry endPc="268439631" name="xadj" stackId="3" startPc="268439338"/>
+<entry endPc="268439632" name="dc" stackId="1" startPc="268439334"/>
+<entry endPc="268439870" name="x" stackId="2" startPc="268439636"/>
+<entry endPc="268439870" name="xadj" stackId="3" startPc="268439636"/>
+<entry endPc="268439871" name="dc" stackId="1" startPc="268439632"/>
+<entry endPc="268440168" name="x" stackId="2" startPc="268439875"/>
+<entry endPc="268440168" name="xadj" stackId="3" startPc="268439875"/>
+<entry endPc="268440169" name="dc" stackId="1" startPc="268439871"/>
+<entry endPc="268440465" name="dc" stackId="1" startPc="268440169"/>
+<entry endPc="268440761" name="dc" stackId="1" startPc="268440465"/>
+<entry endPc="268441057" name="dc" stackId="1" startPc="268440761"/>
+<entry endPc="268441559" name="dc" stackId="1" startPc="268441057"/>
+<entry endPc="268441785" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268441571"/>
+<entry endPc="268441785" name="rez_cmp_local_custom_drawable_63631986334865506681" stackId="2" startPc="268441571"/>
+<entry endPc="268441786" name="dc" stackId="1" startPc="268441559"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="182" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="mockDC" type="class"/>
+<dataEntry offset="324" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="442" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="473" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="528" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="567" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="598" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="709" parentId="globals" symbolId="helper" type="class"/>
+<dataEntry offset="892" parentId="globals" symbolId="WatchfacesTests" type="class"/>
+<dataEntry offset="939" parentId="globals" symbolId="retrowatchesApp" type="class"/>
+<dataEntry offset="1018" parentId="globals" symbolId="retrowatchesView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="helper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="fontHuge245" parent="helper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="fontHuge45" parent="helper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="fontMedium" parent="helper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getWeekdayName" parent="helper">
+<param id="day"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getWeekdayName_" parent="helper">
+<param id="number"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getMonthName" parent="helper">
+<param id="number"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getHours" parent="helper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getBattery" parent="helper">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawHours" parent="helper">
+<param id="dc"/>
+<param id="hourX"/>
+<param id="hourY"/>
+<param id="adjX"/>
+<param id="adjY"/>
+<param id="hugefont"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawMinutes" parent="helper">
+<param id="dc"/>
+<param id="minuteX"/>
+<param id="minuteY"/>
+<param id="adjX"/>
+<param id="adjY"/>
+<param id="hugefont"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawRight" parent="helper">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="align"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawBottom" parent="helper">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="align"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawLeft" parent="helper">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="align"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawTop" parent="helper">
+<param id="dc"/>
+<param id="x"/>
+<param id="y"/>
+<param id="font"/>
+<param id="align"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setColors" parent="helper">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ifScreen" parent="helper">
+<param id="screenWidth"/>
+<param id="screenHeight"/>
+<param id="screenShape"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="mockDC">
+<param id="logger_"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="drawText" parent="mockDC">
+<param id="hourX"/>
+<param id="hourY"/>
+<param id="font"/>
+<param id="text"/>
+<param id="justify"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="setColor" parent="mockDC">
+<param id="color1"/>
+<param id="color2"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="clear" parent="mockDC">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="retrowatchesApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="retrowatchesApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="retrowatchesApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="retrowatchesApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="retrowatchesApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="retrowatchesView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw_vivoactiveHR" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw_fr920xt" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw_fr230_fr235" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw_fenix3" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw_fr45" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw_fr245_fenix5x" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw_fenix6" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw_fenix6xpro" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw_venu" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="retrowatchesView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
