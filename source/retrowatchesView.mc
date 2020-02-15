@@ -24,11 +24,11 @@ class retrowatchesView extends WatchUi.WatchFace {
     	
 //    	uiH.drawTop(dc,109,-3,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_CENTER);
     	uiH.drawLeft(dc,10,178,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_LEFT);
-    	uiH.drawRight(dc,138,178,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);	
+    	uiH.drawRight(dc,138,178,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);
+    	uiH.drawBluetoothConnectionSmall(dc,11,74);
 	}
 	
 	function draw_fr920xt(dc){
-
 		var xadj = 45;
       	uiH.drawHours(dc,37,-20,xadj,0,uiH.fontHuge45());
     	uiH.drawMinutes(dc,120,45,xadj,0,uiH.fontHuge45());
@@ -36,6 +36,7 @@ class retrowatchesView extends WatchUi.WatchFace {
 //    	uiH.drawTop(dc,109,-3,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_CENTER);
     	uiH.drawLeft(dc,3,118,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_LEFT);
     	uiH.drawRight(dc,200,0,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);
+    	uiH.drawBluetoothConnection(dc,38,82);
 	}
 	
 	function draw_fr230_fr235(dc){
@@ -47,6 +48,7 @@ class retrowatchesView extends WatchUi.WatchFace {
 //    	uiH.drawTop(dc,109,-3,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_CENTER);
     	uiH.drawLeft(dc,-3,75,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_LEFT);
     	uiH.drawRight(dc,218,75,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);
+    	uiH.drawBluetoothConnectionSmall(dc,195,100);
 	}
 	
 	function draw_fenix3(dc){
@@ -58,6 +60,7 @@ class retrowatchesView extends WatchUi.WatchFace {
     	uiH.drawTop(dc,109,-3,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_CENTER);
     	uiH.drawLeft(dc,-1,95,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_LEFT);
     	uiH.drawRight(dc,218,95,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);
+    	uiH.drawBluetoothConnectionSmall(dc,109,191);
 	}
 	
 	function draw_fr45(dc){
@@ -69,6 +72,7 @@ class retrowatchesView extends WatchUi.WatchFace {
     	//uiH.drawTop(dc,104,0,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_CENTER);
     	uiH.drawLeft(dc,-3,90,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_LEFT);
     	uiH.drawRight(dc,210,90,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);
+    	uiH.drawBluetoothConnectionSmall(dc,104,183);
 	}
 	
 	function draw_fr245_fenix5x(dc) {
@@ -80,6 +84,7 @@ class retrowatchesView extends WatchUi.WatchFace {
     	uiH.drawTop(dc,120,0,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_CENTER);
     	uiH.drawLeft(dc,-1,108,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_LEFT);
     	uiH.drawRight(dc,240,108,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);
+    	uiH.drawBluetoothConnection(dc,120,204);
 	}
 		
 	function draw_fenix6(dc){
@@ -88,7 +93,8 @@ class retrowatchesView extends WatchUi.WatchFace {
     	
     	uiH.drawTop(dc,130,2,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_CENTER);
     	uiH.drawLeft(dc,-1,115,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_LEFT);
-    	uiH.drawRight(dc,260,115,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);    	
+    	uiH.drawRight(dc,260,115,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);
+    	uiH.drawBluetoothConnectionSmall(dc,130,233);
 	}
 	
 	function draw_fenix6xpro(dc){
@@ -98,6 +104,7 @@ class retrowatchesView extends WatchUi.WatchFace {
     	uiH.drawTop(dc,140,2,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_CENTER);
     	uiH.drawRight(dc,278,120,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);
     	uiH.drawLeft(dc,2,120,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_LEFT);
+    	uiH.drawBluetoothConnection(dc,140,240);
 	}
 	
 	function draw_venu(dc){
@@ -107,6 +114,7 @@ class retrowatchesView extends WatchUi.WatchFace {
     	uiH.drawTop(dc,195,10,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_CENTER);
     	uiH.drawRight(dc,380,175,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_RIGHT);
     	uiH.drawLeft(dc,10,175,uiH.fontMedium(),Graphics.TEXT_JUSTIFY_LEFT);
+    	uiH.drawBluetoothConnection(dc,195,350);
 	}
 	
     function onUpdate(dc) {

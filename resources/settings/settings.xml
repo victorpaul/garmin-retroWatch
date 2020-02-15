@@ -18,5 +18,8 @@
         </settingConfig>
     </setting>
 
+	<setting propertyKey="@Properties.BTCOnnection" title="@Strings.BTConnection">
+        <settingConfig type="boolean" />
+    </setting>
 
 </settings>

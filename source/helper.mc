@@ -28,20 +28,25 @@ class helper {
 	function fontMedium(){ // size 140
 		return WatchUi.loadResource(Rez.Fonts.fntMedium);
 	}
+	
+	function fontIcons(){
+		return WatchUi.loadResource(Rez.Fonts.icons);
+	}
+	
+	function fontSmallIcons(){
+		return WatchUi.loadResource(Rez.Fonts.smallicons);
+	}
 
 	function getWeekdayName(day){
-		return getWeekdayName_(day);
-	}
-	function getWeekdayName_(number){
-		
-		switch(number){
+		switch(day){
 			case 1: return "sun";
 			case 2: return "mon";
 			case 3: return "tue";
 			case 4: return "wed";
 			case 5: return "thu";
 			case 6: return "fri";
-			case 7: return "sat";			
+			case 7: return "sat";
+			default: return "-";		
 		}
 	}
 	
@@ -58,7 +63,8 @@ class helper {
 			case 9: return "Sep";
 			case 10: return "Oct";
 			case 11: return "Nov";
-			case 12: return "Dec";			
+			case 12: return "Dec";
+			default: return "-";	
 		}
 	}
 	
@@ -76,6 +82,20 @@ class helper {
 			return "100%";
 		}
 		return Lang.format("$1$$2$",[System.getSystemStats().battery.format("%d"),"%"]);
+	}
+	
+	function drawBluetoothConnectionSmall(dc,x,y){
+		drawBluetoothConnection_(dc,x,y,fontSmallIcons(),Application.getApp().getProperty("BTCOnnection"));
+	}
+	
+	function drawBluetoothConnection(dc,x,y){
+		drawBluetoothConnection_(dc,x,y,fontIcons(),Application.getApp().getProperty("BTCOnnection"));
+	}
+	
+	function drawBluetoothConnection_(dc,x,y,font,setting){
+		if(setting && System.getDeviceSettings().phoneConnected){
+			dc.drawText(x,y, font, "g", Graphics.TEXT_JUSTIFY_CENTER);
+		}
 	}
 	
 	function drawHours(dc,hourX,hourY,adjX,adjY,hugefont){
