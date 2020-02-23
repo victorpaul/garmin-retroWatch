@@ -15,7 +15,6 @@ class helper {
 	function initialize(){
 		
 	}
-	
 
 	function fontHuge245(){ // size 140
 		return WatchUi.loadResource(Rez.Fonts.fntHuge);
@@ -25,8 +24,12 @@ class helper {
 		return WatchUi.loadResource(Rez.Fonts.fntHuge45);
 	}
 	
-	function fontMedium(){ // size 140
+	function fontMedium(){
 		return WatchUi.loadResource(Rez.Fonts.fntMedium);
+	}
+	
+	function fontSmall(){ // size 23
+		return WatchUi.loadResource(Rez.Fonts.fntSmall);
 	}
 	
 	function fontIcons(){
@@ -161,13 +164,30 @@ class helper {
     	dc.setColor(fgColor, Graphics.COLOR_TRANSPARENT);
 	}
 	
+	
 	function ifScreen(screenWidth,screenHeight,screenShape){
 		return 
 			screenWidth == System.getDeviceSettings().screenWidth &&
 			screenHeight == System.getDeviceSettings().screenHeight &&	
 			screenShape == System.getDeviceSettings().screenShape;
 	}
+
+	function canBurn(){
+		var sys = System.getDeviceSettings();
+        if(sys has :requiresBurnInProtection) {
+        	return sys.requiresBurnInProtection;        	
+        }
+        return false;
+	}
 	
-	
+	function setColorsOled(dc,inLowPower){
+		if(inLowPower){
+			dc.setColor(Graphics.COLOR_BLACK,Graphics.COLOR_BLACK);
+   			dc.clear();
+   			dc.setColor(Graphics.COLOR_WHITE,Graphics.COLOR_TRANSPARENT);
+		}else{
+			setColors(dc);
+		}
+	}
 
 }

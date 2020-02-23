@@ -33,6 +33,7 @@ class HelperTests {
     	uiH.fontMedium();
     	uiH.fontSmallIcons();
     	uiH.fontIcons();
+    	uiH.fontSmall();
     	return true;
 	}
 

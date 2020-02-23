@@ -3,6 +3,8 @@
     <font id="fntHuge" filename="fnt1.fnt" antialias="true"/>
     <font id="fntHuge45" filename="fnt45.fnt" antialias="true"/>
     <font id="fntMedium" filename="fntMedium.fnt" antialias="true"/>
+    <font id="fntSmall" filename="fntSmall.fnt" antialias="true"/>
+    
     
     <font id="icons" filename="icons.fnt" antialias="true" filter="fghi8"/>
     <font id="smallicons" filename="smallicons.fnt" antialias="true" filter="fghi8"/>
