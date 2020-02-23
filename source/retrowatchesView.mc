@@ -3,7 +3,6 @@ using Toybox.Graphics;
 using Toybox.System;
 using Toybox.Lang;
 using Toybox.Application;
-using Toybox.Math;
 
 class retrowatchesView extends WatchUi.WatchFace {
 
@@ -14,7 +13,6 @@ class retrowatchesView extends WatchUi.WatchFace {
         WatchFace.initialize();
         
         uiH = new helper();
-        
         uiH.debug = false;
     }
     
@@ -119,24 +117,19 @@ class retrowatchesView extends WatchUi.WatchFace {
     	uiH.drawBluetoothConnection(dc,140,240);
 	}
 	
-	function draw_venu(dc){	
-//		uiH.debug=true;
-
+	function draw_venu(dc){
 		if(uiH.debug || inLowPower && uiH.canBurn()){
 			var step = 4;
-			var r = (360/step) * (System.getClockTime().min);
-			var radians=Math.toRadians(r);
-			var hx = Math.cos(radians)*100;
-			var hy = Math.sin(radians)*70;
-			uiH.drawHours(dc,170+hx,65+hy,50,0,uiH.fontHuge45());
-			uiH.drawMinutes(dc,170+hx,200+hy,50,0,uiH.fontHuge45());
+			var xy = uiH.getAnalogClockPosition(step,System.getClockTime().min,100,70);
+			var hx = xy[0];
+			var hy = xy[1];
+			uiH.drawHours(dc,170+hx,52+hy,50,0,uiH.fontHuge245());
+			uiH.drawMinutes(dc,170+hx,187+hy,50,0,uiH.fontHuge245());
 			if(uiH.debug){
-				for(var r=0; r<360;r+=(360/step)){
-					radians=Math.toRadians(r);
-					hx = Math.cos(radians)*100;
-					hy = Math.sin(radians)*70;
-					uiH.drawHours(dc,170+hx,65+hy,50,0,uiH.fontHuge45());
-					uiH.drawMinutes(dc,170+hx,200+hy,50,0,uiH.fontHuge45());
+				for(var m=0; m<60;m++){
+					xy = uiH.getAnalogClockPosition(step,m,100,70);
+					uiH.drawHours(dc,170+xy[0],52+xy[1],50,0,uiH.fontHuge245());
+					uiH.drawMinutes(dc,170+xy[0],187+xy[1],50,0,uiH.fontHuge245());
 				}
 			}
 		}else{

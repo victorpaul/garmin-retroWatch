@@ -4,7 +4,7 @@ using Toybox.System;
 using Toybox.Lang;
 using Toybox.ActivityMonitor;
 using Toybox.Application;
-
+using Toybox.Math;
 using Toybox.Time;
 using Toybox.Time.Gregorian;
 
@@ -188,6 +188,14 @@ class helper {
 		}else{
 			setColors(dc);
 		}
+	}
+	
+	function getAnalogClockPosition(step,value,radiusX,radiusY){
+		var r = (360/step) * value;
+		var radians=Math.toRadians(r);
+		var x = Math.cos(radians)*radiusX;
+		var y = Math.sin(radians)*radiusY;
+		return [x,y];
 	}
 
 }
